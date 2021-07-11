@@ -13,10 +13,8 @@ Multivariate, Time-Series
 #### Associated Tasks:
 Regression, Clustering
 
+#### Database information:
 - This database have 2,075,259 rows and 7 columns.
-
-Database information:
-
 - date: Date in format dd/mm/yyyy
 - time: time in format hh:mm:ss
 - global_active_power: household global minute-averaged active power (in kilowatt)
