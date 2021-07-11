@@ -1,6 +1,6 @@
 # time-series-household-electric-power-consumption
 
-# Introduction Dataset
+# Dataset Information
 ### Household Electric Power Consumption
 
 #### Context: 
