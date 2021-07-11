@@ -4,7 +4,16 @@
 ### Household Electric Power Consumption
 Link Dataset : https://www.kaggle.com/uciml/electric-power-consumption-data-set
 
-This database have 2,075,259 rows and 7 columns.
+#### Context: 
+Measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years. Different electrical quantities and some sub-metering values are available.
+
+#### Data Set Characteristics:
+Multivariate, Time-Series
+
+#### Associated Tasks:
+Regression, Clustering
+
+- This database have 2,075,259 rows and 7 columns.
 
 Database information:
 
