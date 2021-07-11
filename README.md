@@ -1,4 +1,4 @@
-# time-series-forecasting-household-electric-power-consumption
+# time series forecasting analysis and prediction on household electric power consumption
 
 # Dataset Information
 ### Household Electric Power Consumption
